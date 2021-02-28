@@ -52,6 +52,7 @@
 | MuP                 | [link](https://drive.google.com/drive/folders/1-FIiXSXKZ-HD_D5rZKaWSNp_CfPGRxjo?usp=sharing) |
 | OOP                 | - [link](https://drive.google.com/drive/folders/15rC79S3L60zTC0ognw1nTLMFBP12cSt-?usp=sharing) <br /> - [Some codes done in class from Jennifer Mam repo](https://github.com/SinghCoder/OOP_Codes) |
 | Pava (HuEl)         | [link](https://drive.google.com/drive/folders/1SwNRrSZF9haN5lfs2o-qx0HN2AaRKlDG?usp=sharing) |
+| Org Psych (HuEl)    | [link](https://drive.google.com/drive/folders/1aWB6L4duEHKFBYF9zbaSwCqBGjsyvN8o?usp=sharing) |
 | POE                 | [link](https://drive.google.com/drive/folders/1-TsXqzTl2gvYVbP8Ef4x1Zm9lmKtwnO-?usp=sharing) |
 | Colln of some huels | [link](https://drive.google.com/drive/folders/1v4Yur60GeofHtlll0Ur1BVMgQE1mq6L3?usp=sharing) |
 
